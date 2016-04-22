@@ -1,5 +1,5 @@
 ---
- - hosts: teamservers
+ - hosts: alpha
 
    tasks:
    - name: apt update

@@ -10,3 +10,9 @@ To use:
 ... create teamserver hosts file ...
 # ansible-playbook -i teamservers cs.yml
 ```
+
+
+## TODO
+
+0. supervisord teamserver
+0. aws-ify
